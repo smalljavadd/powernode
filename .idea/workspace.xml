@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d5b2550-10dd-4853-af67-a05984c8138a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -7,6 +19,8 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1jM54ThZVBuAL9oFEeFREBPjAvh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="flattenModules" value="true" />
@@ -16,6 +30,12 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager" selected="Spring Boot.Application">
@@ -33,5 +53,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d5b2550-10dd-4853-af67-a05984c8138a" name="Default Changelist" comment="" />
+      <created>1603600928855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603600928855</updated>
+      <workItem from="1603600930208" duration="893000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试保存">
+      <created>1603600993747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603600993747</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试保存" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试保存" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="34" key="CommitChangelistDialog2" timestamp="1603600993337">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="164" y="34" key="CommitChangelistDialog2/-1680.-377.1680.1025/0.25.1440.875@0.25.1440.875" timestamp="1603600993337" />
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1603601196314">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2/-1680.-377.1680.1025/0.25.1440.875@0.25.1440.875" timestamp="1603601196314" />
+    <state x="420" y="193" width="599" height="538" key="find.popup" timestamp="1603601360759">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="420" y="193" width="599" height="538" key="find.popup/-1680.-377.1680.1025/0.25.1440.875@0.25.1440.875" timestamp="1603601360759" />
   </component>
 </project>

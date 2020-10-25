@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001/002-springboot-springmvc/002-springboot-springmvc.iml" filepath="$PROJECT_DIR$/001/002-springboot-springmvc/002-springboot-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/020-springboot-dubbo-interface/020-springboot-dubbo-interface.iml" filepath="$PROJECT_DIR$/020-springboot-dubbo-interface/020-springboot-dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/021-springboot-dubbo-provider/021-springboot-dubbo-provider.iml" filepath="$PROJECT_DIR$/021-springboot-dubbo-provider/021-springboot-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/022-springboot-dubbo-consumer/022-springboot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/022-springboot-dubbo-consumer/022-springboot-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/powernode.iml" filepath="$PROJECT_DIR$/.idea/powernode.iml" />
+    </modules>
+  </component>
+</project>
